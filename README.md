@@ -23,7 +23,6 @@ The scene includes:
 ## 🖥️ Screenshot
 
 ![City Scene Screenshot](screenshot.png)  
-*(Replace with your actual screenshot if uploading to GitHub)*
 
 ---
 
