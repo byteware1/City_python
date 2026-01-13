@@ -22,7 +22,7 @@ The scene includes:
 
 ## 🖥️ Screenshot
 
-![City Scene Screenshot](screenshot.png)  
+![screenshot.png](https://github.com/byteware1/City_python/blob/main/ignore/repo/assets/screenshot.png)
 
 ---
 
